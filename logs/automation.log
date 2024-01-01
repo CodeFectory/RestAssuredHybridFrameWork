@@ -1,0 +1,179 @@
+23:16:42.988 [TestNG-test=test-1] INFO  api.test.UserTests - ***************** Creating the User *****************
+23:16:46.254 [TestNG-test=test-1] INFO  api.test.UserTests - ***************** User is created *****************
+23:16:46.268 [TestNG-test=test-1] INFO  api.test.UserTests - ***************** Reading user information *****************
+23:16:47.801 [TestNG-test=test-1] INFO  api.test.UserTests - ***************** User information is displayed *****************
+23:16:47.802 [TestNG-test=test-1] INFO  api.test.UserTests - ***************** Updating User *****************
+23:16:50.684 [TestNG-test=test-1] INFO  api.test.UserTests - ***************** User is Updated *****************
+23:16:50.685 [TestNG-test=test-1] INFO  api.test.UserTests - ***************** Deleting User *****************
+23:16:52.108 [TestNG-test=test-1] INFO  api.test.UserTests - ***************** User is deleted *****************
+17:47:19.848 [TestNG-test=test-1] DEBUG api.test.UserTests2 - debugging.....
+17:47:19.875 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Creating user  ***************
+17:47:22.013 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+17:47:22.087 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Updating User ***************
+17:47:22.111 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+18:16:06.020 [TestNG-test=test-1] DEBUG api.test.UserTests2 - debugging.....
+18:16:06.030 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Creating user  ***************
+18:16:10.588 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********User is creatged  ***************
+18:16:10.621 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+18:16:12.428 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+18:16:12.431 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Updating User ***************
+18:16:14.282 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** User updated ***************
+18:16:16.037 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+18:16:17.764 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** User deleted ***************
+18:28:40.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:40.997 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:41.002 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:41.854 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.058 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.060 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.063 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.087 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.118 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.123 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.145 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.223 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.225 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.226 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.240 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.264 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.266 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.267 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.282 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.304 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.305 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.317 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.338 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.339 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.341 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.352 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.371 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.373 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.374 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.383 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.396 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.397 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.398 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.407 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.418 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.420 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.420 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.429 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.443 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.449 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.457 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.458 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.459 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.466 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.479 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.480 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.481 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.494 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.506 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.508 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.509 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.517 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.530 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.530 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.531 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.538 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.546 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.547 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.547 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.558 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.570 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.570 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.571 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.577 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.589 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.589 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.592 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.600 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.608 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.609 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.610 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.615 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.624 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.627 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.634 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.646 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.647 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.654 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.666 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.668 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.669 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.679 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:42.687 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:42.687 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:42.688 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:42.692 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:50.520 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:50.522 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:50.525 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:50.554 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:50.565 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:50.566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:50.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:50.575 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:50.596 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:50.597 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:50.599 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:50.611 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:50.645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:50.646 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:50.648 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:50.659 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:55.897 [main] INFO  api.test.UserTests - ***************** Creating the User *****************
+18:28:57.429 [main] INFO  api.test.UserTests - ***************** User is created *****************
+18:28:57.432 [main] INFO  api.test.UserTests - ***************** Reading user information *****************
+18:28:59.081 [main] INFO  api.test.UserTests - ***************** User information is displayed *****************
+18:28:59.084 [main] INFO  api.test.UserTests - ***************** Updating User *****************
+18:29:02.372 [main] INFO  api.test.UserTests - ***************** User is Updated *****************
+18:29:02.375 [main] INFO  api.test.UserTests - ***************** Deleting User *****************
+18:29:03.947 [main] INFO  api.test.UserTests - ***************** User is deleted *****************
+18:29:21.325 [TestNG-test=test-1] DEBUG api.test.UserTests2 - debugging.....
+18:29:21.339 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Creating user  ***************
+18:29:24.722 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********User is creatged  ***************
+18:29:24.750 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+18:29:26.432 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+18:29:26.441 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Updating User ***************
+18:29:28.045 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** User updated ***************
+18:29:29.609 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+18:29:31.232 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** User deleted ***************
+18:38:25.087 [TestNG-test=test-1] DEBUG api.test.UserTests2 - debugging.....
+18:38:25.098 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Creating user  ***************
+18:38:28.550 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********User is creatged  ***************
+18:38:28.565 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+18:38:30.108 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+18:38:30.109 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Updating User ***************
+18:38:31.536 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** User updated ***************
+18:38:32.965 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+18:38:34.449 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** User deleted ***************
+18:39:01.877 [TestNG-test=test-1] DEBUG api.test.UserTests2 - debugging.....
+18:39:01.890 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Creating user  ***************
+18:39:05.581 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********User is creatged  ***************
+18:39:05.596 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+18:39:07.297 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+18:39:07.298 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Updating User ***************
+18:39:09.018 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** User updated ***************
+18:39:10.708 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+18:39:12.406 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** User deleted ***************
+18:47:42.437 [TestNG-test=test-1] DEBUG api.test.UserTests2 - debugging.....
+18:47:42.452 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Creating user  ***************
+18:47:44.362 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+18:47:44.400 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Updating User ***************
+18:47:44.426 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+21:46:13.262 [TestNG-test=test-1] DEBUG api.test.UserTests2 - debugging.....
+21:46:13.276 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Creating user  ***************
+21:46:16.922 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********User is creatged  ***************
+21:46:16.936 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+21:46:18.634 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+21:46:18.635 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** Updating User ***************
+21:46:20.343 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** User updated ***************
+21:46:21.964 [TestNG-test=test-1] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+21:46:23.578 [TestNG-test=test-1] INFO  api.test.UserTests2 - ********** User deleted ***************
